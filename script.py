@@ -24,7 +24,7 @@ NOTE: Download may take some time! So please wait for it to complete!"""
 
     ABOUT_TEXT = """⭕️<b>My Name : Zee5 DL</b>
 
-⭕️<b>Creater :</b> @VKPROJECTS
+⭕️<b>Creater :</b> @Deva_TG_Update
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
@@ -50,7 +50,7 @@ Every contribution matters 😇"""
 <i>NOTE : Taking high resolutions may result in files above 2GB and hence cannot Upload to TG. So better select a medium resolution.</i> 😇
 """    
     
-    UPGRADE_TEXT = "Contact @VKP_BOTS"
+    UPGRADE_TEXT = "Contact @Deva_TG_Update"
     
     DOWNLOAD_START = "Trying to download to my server. This may take a while 😴"
     
@@ -64,7 +64,7 @@ Every contribution matters 😇"""
     
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom Thumbnail cleared succesfully."
     
-    SHOW_THUMB = "@VKPROJECTS\n\nUse /delthumb to clear this thumbnail."
+    SHOW_THUMB = "@Deva_TG_Update\n\nUse /delthumb to clear this thumbnail."
     
     NO_THUMB = "SED😕 No saved thumbnails Found!!"
     
