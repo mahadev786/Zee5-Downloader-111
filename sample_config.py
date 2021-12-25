@@ -20,7 +20,7 @@ class Config(object):
     DOWNLOAD_LOCATION = "./DOWNLOADS"
 
     # Update channel for force subscription
-    UPDATE_CHANNEL = "vkprojects"
+    UPDATE_CHANNEL = "Deva_TG_Update"
     
     # Telegram maximum file upload size
     TG_MAX_FILE_SIZE = 2097152000
