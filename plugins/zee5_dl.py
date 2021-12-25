@@ -59,11 +59,11 @@ async def zee5_capture(bot, update):
                await update.reply_text("🤭 Sorry Dude, You are **B A N N E D**.")
                return
         except UserNotParticipant:
-            #await update.reply_text(f"Join @{update_channel} To Use Me")
+            #await update.reply_text(f"Join @Deva_TG_Update To Use Me")
             await update.reply_text(
                 text="**Join My Updates Channel to use me & Enjoy the Free Service**",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text="Join Our Updates Channel", url=f"https://telegram.me/{Config.UPDATE_CHANNEL}")]
+                    [ InlineKeyboardButton(text="Join Our Updates Channel", url=f"https://t.me/Deva_TG_Update")]
                 ])
             )
             return 
